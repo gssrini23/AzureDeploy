@@ -1,1 +1,1 @@
-Sample JoeSoft Azure Cloud Service application, Azure Website and deployment PowerShell scripts. This is the code corresponding to the [Building an Automated Deployment Pipeline for Azure(http://www.kuemerle.com/talks/azure-deployment/) talk.
+Sample JoeSoft Azure Cloud Service application, Azure Website and deployment PowerShell scripts. This is the code corresponding to the [Building an Automated Deployment Pipeline for Azure](http://www.kuemerle.com/talks/azure-deployment/) talk.
