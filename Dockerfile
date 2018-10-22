@@ -1,3 +1,4 @@
+
 # Create a container with the compiled asp.net core app
 FROM microsoft/aspnetcore
 
@@ -6,3 +7,6 @@ WORKDIR /app
 
 # Copy files from the artifact staging folder on agent
 COPY WebApplication/ .
+
+# start the dotnet application
+ENTRYPOINT ["dotnet", "dotnetcore-sample.dll"]
