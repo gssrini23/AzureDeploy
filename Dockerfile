@@ -5,4 +5,4 @@ FROM microsoft/aspnetcore
 WORKDIR /app
 
 # Copy files from the artifact staging folder on agent
-COPY WebApplication .
+COPY WebApplication/ .
